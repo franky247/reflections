@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+	git init
+	a new git repository is created, but without any commits yet
+	files are not yet tracked
+	it creates the hidden .git subfolder
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	I can decide which files from the working directory will be added to a commit. This will be helpful when making sure that a commit related to one logical step.
+
