@@ -7,3 +7,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	I can decide which files from the working directory will be added to a commit. This will be helpful when making sure that a commit related to one logical step.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	I can add files one by one and commit these one by one, reflecting a logical change per commit
+
+
